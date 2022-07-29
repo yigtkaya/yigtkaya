@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yigtkaya
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Pytorch, TensorFlow, Keras. Python, Java is my main languages. 
+- 👀 I’m interested in Machine learning 
 - Currently studying Computer Engineering at Bahcesehir University 
 - 📫 How to reach me => hasanyigit.kaya@bahcesehir.edu.tr
 
