@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yigtkaya
-- 👀 I’m interested in Machine learning 
+- 👀 I’m interested in Blockchain and Flutter. 
 - Currently studying Computer Engineering at Bahcesehir University 
 - 📫 How to reach me => hasanyigit.kaya@bahcesehir.edu.tr
 
