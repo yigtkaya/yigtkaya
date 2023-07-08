@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yigtkaya
-- 👀 I’m interested in Blockchain and Flutter. 
-- Currently studying Computer Engineering at Bahcesehir University 
+- 👀 I’m interested in Android, Flutter and Blockchain. 
+- Graduated from Computer Engineering at Bahcesehir University 
 - 📫 How to reach me => hasanyigit.kaya@bahcesehir.edu.tr
 
 <!---
