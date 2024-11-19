@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yigtkaya
-- 👀 I’m interested in Android, Flutter and Blockchain. 
+- 👀 I’m interested in Mobile and Backend development. Currently working on both Android and Flutter.
 - Graduated from Computer Engineering at Bahcesehir University 
 - 📫 How to reach me => hasanyigtkaya@gmail.com
-- play store :https://play.google.com/store/apps/dev?id=6435785736231743866
+- play store: https://play.google.com/store/apps/dev?id=6435785736231743866
 
 
 <!---
